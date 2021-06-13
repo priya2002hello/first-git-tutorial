@@ -3,4 +3,3 @@ This is info file about git git bash git command
 it will be very helpful.
 
 This ia change made in master branch.
-This is an introductory file to test git command.
